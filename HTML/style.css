@@ -1,0 +1,54 @@
+
+
+
+#button{
+  background-color: #97181A;
+  color: #FEECDE;
+  padding: 10px;
+  border-radius: 10px;
+  text-align: center;
+  font-size: medium;
+  font-style: italic;
+  width: 100px;
+  cursor: pointer;
+  margin: 120px;
+  
+  
+}
+#button:hover{
+  background-color: #E296B2;
+  color: #282828;
+}
+#myImage{
+  width: 200px;
+  height: 200px;
+  border-radius: 25px;
+  object-fit: cover;
+
+}
+img{
+  border-radius: 25px;
+  object-fit: cover;
+  width: 200px;
+  height: 300px;
+}
+h1, h2, h3, h4 {
+  color: #97181A;
+}
+p {
+  color: #282828;
+}
+a {
+  color: #97181A;
+}
+
+a:hover {
+  color: #E296B2;
+}
+footer {
+  background-color: #282828;
+  color: #FEECDE;
+}
+th{
+  padding: 10px;
+}
